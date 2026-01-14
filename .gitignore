@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.venv/
+venv/
+.env
+
+# OS/Editor
+.DS_Store
+.vscode/
+
+# Local docs (do not commit legal PDFs)
+docs/*.pdf
+
+# Logs
+*.log
